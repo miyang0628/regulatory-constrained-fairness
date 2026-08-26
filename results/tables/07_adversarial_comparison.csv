@@ -1,0 +1,4 @@
+dataset,adversarial,nn_baseline,adversarial_beats_baseline
+German Credit,0.5698,0.5544,True
+Taiwan CC Default,0.6953,0.6977,False
+Credit Card Approval,0.3411,0.3445,False

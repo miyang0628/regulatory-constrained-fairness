@@ -1,0 +1,13 @@
+dataset,model,AUC,PR_AUC,F1,BalancedAcc,Brier
+German Credit,LogisticRegression,0.8088,0.6362,0.6409,0.7495,0.1804
+German Credit,XGBoost,0.8031,0.6361,0.6081,0.72,0.1703
+German Credit,LightGBM,0.8033,0.6487,0.539,0.6733,0.1855
+German Credit,CatBoost,0.8154,0.6749,0.6623,0.76,0.157
+Taiwan CC Default,LogisticRegression,0.7165,0.499,0.471,0.667,0.2086
+Taiwan CC Default,XGBoost,0.7738,0.5502,0.5325,0.708,0.1736
+Taiwan CC Default,LightGBM,0.7708,0.5445,0.5277,0.7046,0.1707
+Taiwan CC Default,CatBoost,0.7769,0.5534,0.5387,0.7133,0.1795
+Credit Card Approval,LogisticRegression,0.5443,0.1451,0.2099,0.5333,0.246
+Credit Card Approval,XGBoost,0.7009,0.2845,0.325,0.6486,0.1966
+Credit Card Approval,LightGBM,0.7304,0.318,0.3538,0.6692,0.1782
+Credit Card Approval,CatBoost,0.66,0.2502,0.284,0.6172,0.2158

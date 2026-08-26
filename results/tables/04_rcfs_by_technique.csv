@@ -1,0 +1,10 @@
+dataset,technique,AUC,c_perf,c_fair,c_expl,c_rec,Compliance,RCFS
+German Credit,baseline,0.8016,0.6032,0.9851,0.3338,,0.4986,0.5509
+German Credit,reweighing,0.8128,0.6256,0.9758,0.3391,,0.5033,0.5645
+German Credit,reject_option,0.8016,0.6032,0.9973,0.3338,,0.5002,0.5517
+Taiwan CC Default,baseline,0.7744,0.5488,0.926,0.6563,,0.7682,0.6585
+Taiwan CC Default,reweighing,0.7748,0.5497,0.9315,0.6533,,0.768,0.6588
+Taiwan CC Default,reject_option,0.7744,0.5488,0.9998,0.6563,,0.7924,0.6706
+Credit Card Approval,baseline,0.6904,0.3807,0.8589,0.4773,,0.6136,0.4971
+Credit Card Approval,reweighing,0.6917,0.3835,0.9928,0.4723,,0.6401,0.5118
+Credit Card Approval,reject_option,0.6904,0.3807,0.9995,0.4773,,0.646,0.5134

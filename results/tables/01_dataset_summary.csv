@@ -1,0 +1,5 @@
+dataset,n_rows,n_cols,pos_rate,sensitive
+German Credit,1000,23,0.3,"sex, age_group"
+Taiwan CC Default,30000,26,0.221,"sex, education"
+Credit Card Approval (30dpd),36457,22,0.118,sex
+Credit Card Approval (60dpd),36457,22,0.017,sex

@@ -1,0 +1,22 @@
+gamma,dataset,best,beats_baseline
+0.0,German Credit,reweighing,True
+0.0,Taiwan CC Default,reweighing,True
+0.0,Credit Card Approval,reweighing,True
+0.2,German Credit,reweighing,True
+0.2,Taiwan CC Default,reject_option,True
+0.2,Credit Card Approval,reweighing,True
+0.4,German Credit,reweighing,True
+0.4,Taiwan CC Default,reject_option,True
+0.4,Credit Card Approval,reject_option,True
+0.5,German Credit,reweighing,True
+0.5,Taiwan CC Default,reject_option,True
+0.5,Credit Card Approval,reject_option,True
+0.6,German Credit,reweighing,True
+0.6,Taiwan CC Default,reject_option,True
+0.6,Credit Card Approval,reject_option,True
+0.8,German Credit,reweighing,True
+0.8,Taiwan CC Default,reject_option,True
+0.8,Credit Card Approval,reject_option,True
+1.0,German Credit,reweighing,True
+1.0,Taiwan CC Default,reject_option,True
+1.0,Credit Card Approval,reject_option,True

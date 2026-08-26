@@ -1,0 +1,64 @@
+dataset,technique,gamma,RCFS
+German Credit,baseline,0.0,0.6032
+German Credit,baseline,0.2,0.5823
+German Credit,baseline,0.4,0.5614
+German Credit,baseline,0.5,0.5509
+German Credit,baseline,0.6,0.5405
+German Credit,baseline,0.8,0.5196
+German Credit,baseline,1.0,0.4986
+German Credit,reweighing,0.0,0.6256
+German Credit,reweighing,0.2,0.6011
+German Credit,reweighing,0.4,0.5767
+German Credit,reweighing,0.5,0.5645
+German Credit,reweighing,0.6,0.5522
+German Credit,reweighing,0.8,0.5278
+German Credit,reweighing,1.0,0.5033
+German Credit,reject_option,0.0,0.6032
+German Credit,reject_option,0.2,0.5826
+German Credit,reject_option,0.4,0.562
+German Credit,reject_option,0.5,0.5517
+German Credit,reject_option,0.6,0.5414
+German Credit,reject_option,0.8,0.5208
+German Credit,reject_option,1.0,0.5002
+Taiwan CC Default,baseline,0.0,0.5488
+Taiwan CC Default,baseline,0.2,0.5927
+Taiwan CC Default,baseline,0.4,0.6365
+Taiwan CC Default,baseline,0.5,0.6585
+Taiwan CC Default,baseline,0.6,0.6804
+Taiwan CC Default,baseline,0.8,0.7243
+Taiwan CC Default,baseline,1.0,0.7682
+Taiwan CC Default,reweighing,0.0,0.5497
+Taiwan CC Default,reweighing,0.2,0.5933
+Taiwan CC Default,reweighing,0.4,0.637
+Taiwan CC Default,reweighing,0.5,0.6588
+Taiwan CC Default,reweighing,0.6,0.6807
+Taiwan CC Default,reweighing,0.8,0.7243
+Taiwan CC Default,reweighing,1.0,0.768
+Taiwan CC Default,reject_option,0.0,0.5488
+Taiwan CC Default,reject_option,0.2,0.5975
+Taiwan CC Default,reject_option,0.4,0.6462
+Taiwan CC Default,reject_option,0.5,0.6706
+Taiwan CC Default,reject_option,0.6,0.695
+Taiwan CC Default,reject_option,0.8,0.7437
+Taiwan CC Default,reject_option,1.0,0.7924
+Credit Card Approval,baseline,0.0,0.3807
+Credit Card Approval,baseline,0.2,0.4273
+Credit Card Approval,baseline,0.4,0.4739
+Credit Card Approval,baseline,0.5,0.4971
+Credit Card Approval,baseline,0.6,0.5204
+Credit Card Approval,baseline,0.8,0.567
+Credit Card Approval,baseline,1.0,0.6136
+Credit Card Approval,reweighing,0.0,0.3835
+Credit Card Approval,reweighing,0.2,0.4348
+Credit Card Approval,reweighing,0.4,0.4861
+Credit Card Approval,reweighing,0.5,0.5118
+Credit Card Approval,reweighing,0.6,0.5374
+Credit Card Approval,reweighing,0.8,0.5887
+Credit Card Approval,reweighing,1.0,0.6401
+Credit Card Approval,reject_option,0.0,0.3807
+Credit Card Approval,reject_option,0.2,0.4338
+Credit Card Approval,reject_option,0.4,0.4869
+Credit Card Approval,reject_option,0.5,0.5134
+Credit Card Approval,reject_option,0.6,0.5399
+Credit Card Approval,reject_option,0.8,0.593
+Credit Card Approval,reject_option,1.0,0.646
