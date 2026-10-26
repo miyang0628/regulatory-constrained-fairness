@@ -1,7 +1,0 @@
-dataset,technique,model_family,AUC,c_perf,c_fair,c_expl,Compliance,RCFS
-German Credit,nn_baseline,neural_net,0.8162,0.6323,0.9665,0.3163,0.4766,0.5544
-German Credit,adversarial,neural_net,0.8059,0.6117,0.9851,0.3605,0.5278,0.5698
-Taiwan CC Default,nn_baseline,neural_net,0.7456,0.4912,0.9482,0.8641,0.9042,0.6977
-Taiwan CC Default,adversarial,neural_net,0.7318,0.4636,0.9525,0.9028,0.927,0.6953
-Credit Card Approval,nn_baseline,neural_net,0.5725,0.1451,0.8964,0.3903,0.5439,0.3445
-Credit Card Approval,adversarial,neural_net,0.529,0.0579,0.6003,0.6503,0.6243,0.3411

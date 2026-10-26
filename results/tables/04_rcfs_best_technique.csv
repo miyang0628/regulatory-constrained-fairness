@@ -1,4 +1,0 @@
-dataset,technique,RCFS,c_perf,Compliance
-Credit Card Approval,reject_option,0.5134,0.3807,0.646
-German Credit,reweighing,0.5645,0.6256,0.5033
-Taiwan CC Default,reject_option,0.6706,0.5488,0.7924

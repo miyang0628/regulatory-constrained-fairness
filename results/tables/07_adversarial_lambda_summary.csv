@@ -1,4 +1,0 @@
-dataset,baseline_RCFS(l=0),best_lambda>0,best_RCFS,any_lambda_beats_baseline,c_fair_at_best,AUC_at_best
-German Credit,0.5536,2.0,0.6003,True,0.9446,0.7854
-Taiwan CC Default,0.6963,0.5,0.7046,True,0.964,0.7448
-Credit Card Approval,0.342,0.5,0.3525,True,0.6226,0.5439

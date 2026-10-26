@@ -1,4 +1,0 @@
-dataset,n_features,n_train,n_test,sensitive
-German Credit,57,750,250,"sex, age_group"
-Taiwan CC Default,21,22500,7500,"sex, education"
-Credit Card Approval,53,27342,9115,sex
