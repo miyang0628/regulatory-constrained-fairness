@@ -1,0 +1,16 @@
+w_fair,w_expl,dataset,best,beats_baseline
+2.0,1.0,German Credit,reject_option,True
+2.0,1.0,Taiwan CC Default,reweighing,True
+2.0,1.0,Credit Card Approval,reweighing,True
+1.5,1.0,German Credit,reject_option,True
+1.5,1.0,Taiwan CC Default,reweighing,True
+1.5,1.0,Credit Card Approval,reweighing,True
+1.0,1.0,German Credit,reject_option,True
+1.0,1.0,Taiwan CC Default,reweighing,True
+1.0,1.0,Credit Card Approval,reweighing,True
+1.0,1.5,German Credit,reweighing,True
+1.0,1.5,Taiwan CC Default,reweighing,True
+1.0,1.5,Credit Card Approval,reweighing,True
+1.0,2.0,German Credit,reweighing,True
+1.0,2.0,Taiwan CC Default,reweighing,True
+1.0,2.0,Credit Card Approval,reweighing,True

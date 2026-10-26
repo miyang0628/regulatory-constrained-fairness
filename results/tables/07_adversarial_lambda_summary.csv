@@ -1,0 +1,4 @@
+dataset,best_lambda>0,dRCFS,dC_perf,dC_fair,dC_expl,artifact_flag
+German Credit,2.0,0.0675,0.0946,0.0519,0.0314,False
+Taiwan CC Default,2.0,0.0171,-0.0237,-0.0052,0.1089,True
+Credit Card Approval,0.1,0.0115,0.0082,0.0008,0.0133,False

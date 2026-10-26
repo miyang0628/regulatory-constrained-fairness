@@ -1,0 +1,7 @@
+dataset,technique,mean_diff,CI_low,CI_high,significant
+German Credit,reweighing,0.0031,-0.011,0.0199,False
+German Credit,reject_option,0.0016,-0.0104,0.0135,False
+Taiwan CC Default,reweighing,0.0011,-0.0019,0.0042,False
+Taiwan CC Default,reject_option,0.0003,-0.0013,0.0022,False
+Credit Card Approval,reweighing,0.0054,-0.0002,0.0115,False
+Credit Card Approval,reject_option,0.0008,0.0001,0.0017,True

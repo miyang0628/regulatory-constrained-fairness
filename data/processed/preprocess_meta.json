@@ -1,0 +1,124 @@
+{
+  "config": {
+    "random_state": 42,
+    "val_size": 0.2,
+    "test_size": 0.2,
+    "favourable_label": 0
+  },
+  "german": {
+    "target_col": "target",
+    "sensitive_cols": [
+      "sex",
+      "age_group"
+    ],
+    "privileged": {
+      "sex": "male",
+      "age_group": "old"
+    },
+    "favourable_label": 0,
+    "n_features": 57,
+    "n_train": 600,
+    "n_val": 200,
+    "n_test": 200,
+    "num_cols": [
+      "duration",
+      "credit_amount",
+      "installment_rate",
+      "residence_since",
+      "age",
+      "existing_credits",
+      "num_dependents"
+    ],
+    "cat_cols": [
+      "status_checking",
+      "credit_history",
+      "purpose",
+      "savings",
+      "employment",
+      "other_debtors",
+      "property",
+      "other_installment",
+      "housing",
+      "job",
+      "telephone",
+      "foreign_worker"
+    ]
+  },
+  "taiwan": {
+    "target_col": "target",
+    "sensitive_cols": [
+      "sex",
+      "education"
+    ],
+    "privileged": {
+      "sex": "male",
+      "education": [
+        "graduate",
+        "university"
+      ]
+    },
+    "favourable_label": 0,
+    "n_features": 21,
+    "n_train": 18000,
+    "n_val": 6000,
+    "n_test": 6000,
+    "num_cols": [
+      "LIMIT_BAL",
+      "MARRIAGE",
+      "AGE",
+      "PAY_0",
+      "PAY_2",
+      "PAY_3",
+      "PAY_4",
+      "PAY_5",
+      "PAY_6",
+      "BILL_AMT1",
+      "BILL_AMT2",
+      "BILL_AMT3",
+      "BILL_AMT4",
+      "BILL_AMT5",
+      "BILL_AMT6",
+      "PAY_AMT1",
+      "PAY_AMT2",
+      "PAY_AMT3",
+      "PAY_AMT4",
+      "PAY_AMT5",
+      "PAY_AMT6"
+    ],
+    "cat_cols": []
+  },
+  "credit_card_approval": {
+    "target_col": "target",
+    "sensitive_cols": [
+      "sex"
+    ],
+    "privileged": {
+      "sex": "male"
+    },
+    "favourable_label": 0,
+    "n_features": 53,
+    "n_train": 21873,
+    "n_val": 7292,
+    "n_test": 7292,
+    "num_cols": [
+      "CNT_CHILDREN",
+      "AMT_INCOME_TOTAL",
+      "DAYS_BIRTH",
+      "DAYS_EMPLOYED",
+      "FLAG_MOBIL",
+      "FLAG_WORK_PHONE",
+      "FLAG_PHONE",
+      "FLAG_EMAIL",
+      "CNT_FAM_MEMBERS"
+    ],
+    "cat_cols": [
+      "FLAG_OWN_CAR",
+      "FLAG_OWN_REALTY",
+      "NAME_INCOME_TYPE",
+      "NAME_EDUCATION_TYPE",
+      "NAME_FAMILY_STATUS",
+      "NAME_HOUSING_TYPE",
+      "OCCUPATION_TYPE"
+    ]
+  }
+}

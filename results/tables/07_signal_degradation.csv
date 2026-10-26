@@ -1,0 +1,6 @@
+noise,AUC_baseline,best_xgb_technique,RCFS_baseline,RCFS_reweighing,RCFS_reject_option,nn_baseline_RCFS,adversarial_RCFS,adv_beats_nn,adv_c_perf,adv_c_fair,adv_c_expl
+0.0,0.7476,reweighing,0.6268,0.6284,0.6243,0.6998,0.7111,True,0.5002,0.9683,0.88
+0.1,0.7189,reweighing,0.5813,0.5851,0.5825,0.6553,0.6724,True,0.48,0.956,0.7894
+0.2,0.715,baseline,0.5642,0.5636,0.5632,0.6479,0.6632,True,0.473,0.907,0.8059
+0.3,0.6735,baseline,0.5118,0.5086,0.5117,0.6177,0.6055,False,0.4851,0.8715,0.6219
+0.4,0.6189,baseline,0.4813,0.4797,0.4807,0.578,0.5762,False,0.455,0.8585,0.5871

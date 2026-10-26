@@ -1,0 +1,85 @@
+dataset,technique,gamma,RCFS
+German Credit,baseline,0.0,0.5626
+German Credit,baseline,0.2,0.5501
+German Credit,baseline,0.4,0.5375
+German Credit,baseline,0.5,0.5312
+German Credit,baseline,0.6,0.525
+German Credit,baseline,0.8,0.5124
+German Credit,baseline,1.0,0.4999
+German Credit,reweighing,0.0,0.5698
+German Credit,reweighing,0.2,0.5547
+German Credit,reweighing,0.4,0.5397
+German Credit,reweighing,0.5,0.5322
+German Credit,reweighing,0.6,0.5247
+German Credit,reweighing,0.8,0.5097
+German Credit,reweighing,1.0,0.4947
+German Credit,reject_option,0.0,0.5626
+German Credit,reject_option,0.2,0.5519
+German Credit,reject_option,0.4,0.5412
+German Credit,reject_option,0.5,0.5359
+German Credit,reject_option,0.6,0.5305
+German Credit,reject_option,0.8,0.5198
+German Credit,reject_option,1.0,0.5091
+German Credit,exp_gradient,0.0,0.5633
+German Credit,exp_gradient,0.2,0.5511
+German Credit,exp_gradient,0.4,0.5388
+German Credit,exp_gradient,0.5,0.5326
+German Credit,exp_gradient,0.6,0.5265
+German Credit,exp_gradient,0.8,0.5142
+German Credit,exp_gradient,1.0,0.502
+Taiwan CC Default,baseline,0.0,0.5391
+Taiwan CC Default,baseline,0.2,0.5838
+Taiwan CC Default,baseline,0.4,0.6285
+Taiwan CC Default,baseline,0.5,0.6509
+Taiwan CC Default,baseline,0.6,0.6732
+Taiwan CC Default,baseline,0.8,0.7179
+Taiwan CC Default,baseline,1.0,0.7627
+Taiwan CC Default,reweighing,0.0,0.5404
+Taiwan CC Default,reweighing,0.2,0.5852
+Taiwan CC Default,reweighing,0.4,0.63
+Taiwan CC Default,reweighing,0.5,0.6524
+Taiwan CC Default,reweighing,0.6,0.6748
+Taiwan CC Default,reweighing,0.8,0.7196
+Taiwan CC Default,reweighing,1.0,0.7644
+Taiwan CC Default,reject_option,0.0,0.5391
+Taiwan CC Default,reject_option,0.2,0.5839
+Taiwan CC Default,reject_option,0.4,0.6286
+Taiwan CC Default,reject_option,0.5,0.651
+Taiwan CC Default,reject_option,0.6,0.6733
+Taiwan CC Default,reject_option,0.8,0.7181
+Taiwan CC Default,reject_option,1.0,0.7628
+Taiwan CC Default,exp_gradient,0.0,0.5374
+Taiwan CC Default,exp_gradient,0.2,0.5825
+Taiwan CC Default,exp_gradient,0.4,0.6275
+Taiwan CC Default,exp_gradient,0.5,0.6501
+Taiwan CC Default,exp_gradient,0.6,0.6726
+Taiwan CC Default,exp_gradient,0.8,0.7177
+Taiwan CC Default,exp_gradient,1.0,0.7627
+Credit Card Approval,baseline,0.0,0.383
+Credit Card Approval,baseline,0.2,0.4313
+Credit Card Approval,baseline,0.4,0.4796
+Credit Card Approval,baseline,0.5,0.5038
+Credit Card Approval,baseline,0.6,0.5279
+Credit Card Approval,baseline,0.8,0.5762
+Credit Card Approval,baseline,1.0,0.6245
+Credit Card Approval,reweighing,0.0,0.3859
+Credit Card Approval,reweighing,0.2,0.4352
+Credit Card Approval,reweighing,0.4,0.4845
+Credit Card Approval,reweighing,0.5,0.5092
+Credit Card Approval,reweighing,0.6,0.5338
+Credit Card Approval,reweighing,0.8,0.5831
+Credit Card Approval,reweighing,1.0,0.6324
+Credit Card Approval,reject_option,0.0,0.383
+Credit Card Approval,reject_option,0.2,0.4311
+Credit Card Approval,reject_option,0.4,0.4792
+Credit Card Approval,reject_option,0.5,0.5032
+Credit Card Approval,reject_option,0.6,0.5273
+Credit Card Approval,reject_option,0.8,0.5754
+Credit Card Approval,reject_option,1.0,0.6234
+Credit Card Approval,exp_gradient,0.0,0.3853
+Credit Card Approval,exp_gradient,0.2,0.431
+Credit Card Approval,exp_gradient,0.4,0.4766
+Credit Card Approval,exp_gradient,0.5,0.4994
+Credit Card Approval,exp_gradient,0.6,0.5222
+Credit Card Approval,exp_gradient,0.8,0.5678
+Credit Card Approval,exp_gradient,1.0,0.6135

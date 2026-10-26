@@ -1,0 +1,13 @@
+dataset,technique,AUC,c_perf,c_fair,c_expl,DI,abs_SPD,n_eff,binding_attr,Compliance,RCFS
+German Credit,baseline,0.7813,0.5626,0.8848,0.3483,0.8632,0.0935,28.7104,age_group,0.4999,0.5312
+German Credit,reweighing,0.7849,0.5698,0.842,0.3502,0.8102,0.1261,28.5542,age_group,0.4947,0.5322
+German Credit,reject_option,0.7813,0.5626,0.9458,0.3483,0.9347,0.043,28.7104,age_group,0.5091,0.5359
+German Credit,exp_gradient,0.7817,0.5633,0.8982,0.3483,0.8821,0.0857,28.7104,age_group,0.502,0.5326
+Taiwan CC Default,baseline,0.7696,0.5391,0.9544,0.635,0.9488,0.0399,15.7468,education,0.7627,0.6509
+Taiwan CC Default,reweighing,0.7702,0.5404,0.9566,0.6365,0.9512,0.0381,15.7099,education,0.7644,0.6524
+Taiwan CC Default,reject_option,0.7696,0.5391,0.9548,0.635,0.9493,0.0396,15.7468,education,0.7628,0.651
+Taiwan CC Default,exp_gradient,0.7687,0.5374,0.9577,0.6337,0.9502,0.0348,15.7809,education,0.7627,0.6501
+Credit Card Approval,baseline,0.6915,0.383,0.9917,0.4558,1.0191,0.0167,21.9404,sex,0.6245,0.5038
+Credit Card Approval,reweighing,0.6929,0.3859,0.9926,0.464,0.9922,0.0069,21.5495,sex,0.6324,0.5092
+Credit Card Approval,reject_option,0.6915,0.383,0.9863,0.4558,0.9855,0.013,21.9404,sex,0.6234,0.5032
+Credit Card Approval,exp_gradient,0.6927,0.3853,0.9855,0.4454,0.9835,0.0126,22.4542,sex,0.6135,0.4994

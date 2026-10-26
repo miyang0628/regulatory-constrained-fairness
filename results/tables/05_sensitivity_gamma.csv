@@ -1,0 +1,22 @@
+gamma,dataset,best,runner_up,top2_gap
+0.0,German Credit,reweighing,baseline,0.0071
+0.0,Taiwan CC Default,reweighing,baseline,0.0013
+0.0,Credit Card Approval,reweighing,baseline,0.0029
+0.2,German Credit,reweighing,reject_option,0.0039
+0.2,Taiwan CC Default,reweighing,reject_option,0.0011
+0.2,Credit Card Approval,reweighing,baseline,0.0039
+0.4,German Credit,reweighing,reject_option,0.0007
+0.4,Taiwan CC Default,reweighing,reject_option,0.0009
+0.4,Credit Card Approval,reweighing,baseline,0.0049
+0.5,German Credit,reject_option,reweighing,0.0009
+0.5,Taiwan CC Default,reweighing,reject_option,0.0008
+0.5,Credit Card Approval,reweighing,baseline,0.0054
+0.6,German Credit,reject_option,reweighing,0.0025
+0.6,Taiwan CC Default,reweighing,reject_option,0.0007
+0.6,Credit Card Approval,reweighing,baseline,0.0059
+0.8,German Credit,reject_option,reweighing,0.0058
+0.8,Taiwan CC Default,reweighing,reject_option,0.0005
+0.8,Credit Card Approval,reweighing,baseline,0.007
+1.0,German Credit,reject_option,reweighing,0.009
+1.0,Taiwan CC Default,reweighing,reject_option,0.0003
+1.0,Credit Card Approval,reweighing,baseline,0.008

@@ -1,0 +1,22 @@
+k_star,dataset,best,beats_baseline,RCFS_baseline,RCFS_reweighing,RCFS_reject_option
+4,German Credit,reweighing,True,0.4015,0.4056,0.4027
+4,Taiwan CC Default,reweighing,True,0.4701,0.4711,0.4702
+4,Credit Card Approval,reweighing,True,0.3455,0.3493,0.3454
+6,German Credit,reweighing,True,0.45,0.4543,0.4525
+6,Taiwan CC Default,reweighing,True,0.5417,0.5428,0.5419
+6,Credit Card Approval,reweighing,True,0.4059,0.4104,0.4056
+8,German Credit,reweighing,True,0.4926,0.4971,0.4965
+8,Taiwan CC Default,reweighing,True,0.6009,0.602,0.6012
+8,Credit Card Approval,reweighing,True,0.4581,0.4631,0.4577
+10,German Credit,reject_option,True,0.5304,0.5349,0.5359
+10,Taiwan CC Default,reweighing,True,0.6506,0.6518,0.651
+10,Credit Card Approval,reweighing,True,0.5037,0.5092,0.5032
+12,German Credit,reject_option,True,0.5641,0.5687,0.5712
+12,Taiwan CC Default,reweighing,True,0.6929,0.6941,0.6934
+12,Credit Card Approval,reweighing,True,0.544,0.5497,0.5433
+15,German Credit,reject_option,True,0.6084,0.6131,0.6179
+15,Taiwan CC Default,reweighing,True,0.7458,0.7471,0.7464
+15,Credit Card Approval,reweighing,True,0.5961,0.6021,0.5953
+20,German Credit,reject_option,True,0.6691,0.6738,0.6825
+20,Taiwan CC Default,reweighing,True,0.7574,0.7581,0.758
+20,Credit Card Approval,reweighing,True,0.6664,0.6726,0.6652

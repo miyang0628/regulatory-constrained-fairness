@@ -1,0 +1,4 @@
+dataset,n_features,n_train,n_val,n_test,sensitive,privileged
+german,57,600,200,200,"sex, age_group",sex=male; age_group=old
+taiwan,21,18000,6000,6000,"sex, education","sex=male; education=['graduate', 'university']"
+credit_card_approval,53,21873,7292,7292,sex,sex=male

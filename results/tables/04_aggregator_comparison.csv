@@ -1,0 +1,37 @@
+dataset,technique,aggregator,RCFS
+German Credit,baseline,harmonic,0.5312
+German Credit,baseline,geometric,0.5589
+German Credit,baseline,arithmetic,0.5896
+German Credit,reweighing,harmonic,0.5322
+German Credit,reweighing,geometric,0.5564
+German Credit,reweighing,arithmetic,0.5829
+German Credit,reject_option,harmonic,0.5359
+German Credit,reject_option,geometric,0.5683
+German Credit,reject_option,arithmetic,0.6048
+German Credit,exp_gradient,harmonic,0.5326
+German Credit,exp_gradient,geometric,0.5613
+German Credit,exp_gradient,arithmetic,0.5933
+Taiwan CC Default,baseline,harmonic,0.6509
+Taiwan CC Default,baseline,geometric,0.6588
+Taiwan CC Default,baseline,arithmetic,0.6669
+Taiwan CC Default,reweighing,harmonic,0.6524
+Taiwan CC Default,reweighing,geometric,0.6604
+Taiwan CC Default,reweighing,arithmetic,0.6685
+Taiwan CC Default,reject_option,harmonic,0.651
+Taiwan CC Default,reject_option,geometric,0.6589
+Taiwan CC Default,reject_option,arithmetic,0.667
+Taiwan CC Default,exp_gradient,harmonic,0.6501
+Taiwan CC Default,exp_gradient,geometric,0.6582
+Taiwan CC Default,exp_gradient,arithmetic,0.6666
+Credit Card Approval,baseline,harmonic,0.5038
+Credit Card Approval,baseline,geometric,0.5277
+Credit Card Approval,baseline,arithmetic,0.5534
+Credit Card Approval,reweighing,harmonic,0.5092
+Credit Card Approval,reweighing,geometric,0.5323
+Credit Card Approval,reweighing,arithmetic,0.5571
+Credit Card Approval,reject_option,harmonic,0.5032
+Credit Card Approval,reject_option,geometric,0.5267
+Credit Card Approval,reject_option,arithmetic,0.552
+Credit Card Approval,exp_gradient,harmonic,0.4994
+Credit Card Approval,exp_gradient,geometric,0.5239
+Credit Card Approval,exp_gradient,arithmetic,0.5504

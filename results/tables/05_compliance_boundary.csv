@@ -1,0 +1,4 @@
+dataset,c_perf,c_fair,n_eff,c_expl_obs(k*=10),c_expl_boundary,regime
+German Credit,0.5626,0.8745,28.71,0.3483,0.4147,performance-dominant
+Taiwan CC Default,0.5391,0.9526,15.747,0.635,0.376,compliance-dominant
+Credit Card Approval,0.383,0.9913,21.94,0.4558,0.2374,compliance-dominant
